@@ -64,19 +64,6 @@ Sensor → Microcontroller → Internet (Wi-Fi / LoRa) → Backend → Database 
 
 ---
 
-## Repository Structure
-
-lowcost-air-monitor/
-├── docs/ # Documentation and design notes
-├── hardware/ # Sensor and circuit details
-├── firmware/ # Microcontroller firmware
-├── backend/ # Backend server and database
-├── dashboard/ # Data visualization
-└── CONTRIBUTING.md
-
-
----
-
 ## Disclaimer
 
 This project is intended for research, educational, and community
